@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\ÖÐ¼¶¿Î³Ì\idea\Netty\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1612999117.index
+995966199.index
+2172065839.index
+3506836180.index
+3405500324.index
+1964563990.index

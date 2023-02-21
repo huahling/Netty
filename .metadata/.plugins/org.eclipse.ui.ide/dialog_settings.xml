@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="F:\新传输位置\大神\socket\socket\nio\Netty框架\Netty半包粘包\Netty报头长度.zip\Netty"/>
+			<item value="C:\Users\user\Desktop\Netty"/>
+			<item value="F:\新传输位置\大神\socket\socket\nio\Netty框架\Netty\Netty"/>
+			<item value="F:\新传输位置\大神\socket\socket\nio\Netty框架\netty_示例\netty"/>
+			<item value="F:\新传输位置\大神\socket\socket\nio\Netty框架\Netty1"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="371"/>
+		<item key="DIALOG_Y_ORIGIN" value="200"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>
